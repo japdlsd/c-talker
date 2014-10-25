@@ -1,15 +1,15 @@
-UDP TALKER
+## UDP TALKER
 
 This is my small project to System programming course. It's a console talker, which
 enables two people to exchange messages between them via UDP protocol.
 It's written in plain C with no extern libraries.
 
 
-INSTALLATION
+## INSTALLATION
 
 Just run `make` in project's root directory.
 
-USAGE
+## USAGE
 
 `./talker.bin <IP address> [<port> <my port>]`
 
