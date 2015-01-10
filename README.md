@@ -1,7 +1,7 @@
 ## UDP TALKER
 
 This is my small project to System programming course. It's a console talker, which
-enables two people to exchange messages between them via UDP protocol.
+enables two people to exchange messages via UDP protocol.
 It's written in plain C with no extern libraries.
 
 
